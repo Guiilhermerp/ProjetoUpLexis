@@ -41,7 +41,7 @@
     • Exibir os artigos salvos no banco de dados (título e link) e um botão de
     excluir o artigo do banco de dados.
     
-    ####  Telas
+    ####  Exemplo url busca
 
     • Buscar artigos com o termo “machine
     learning”. https://www.uplexis.com.br/blog/?s=machine+learning
