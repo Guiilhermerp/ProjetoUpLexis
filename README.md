@@ -46,16 +46,17 @@
 
     ### Installation
 
-   Requer [Laravel](https://laravel.com/) v5.8+, MySQL e PHP 7 para rodar.
+    Requer [Laravel](https://laravel.com/) v5.8+, MySQL e PHP 7 para rodar.
 
-  Para rodar o projeto execute no terminal.
+    Para rodar o projeto execute no terminal.
 
 ```sh
 composer install
 ```
-   Crie o .env (contem um .env.example na pasta do projeto).
-  Crie o banco de dados.
+    Crie o .env (contem um .env.example na pasta do projeto).
+    Crie o banco de dados.
 
-### Observações
-  Foi tilizado as migrations para o banco de dados e tem uma seed com usúario e senha, porém irei deixar um aquirvo .sql na pasta do projeto.
-  Capturas de artigos repetidos não são iseridos no banco.
+   ### Observações
+    Foi tilizado as migrations para o banco de dados e tem uma seed com usúario e senha, porém irei deixar um arquivo .sql na pasta do projeto.
+  
+    Capturas de artigos repetidos não são iseridos no banco.
